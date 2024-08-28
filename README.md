@@ -24,21 +24,24 @@ To run this Streamlit app locally, follow these steps:
    cd supermarket-sales-dashboard
 
 2. **Create a virtual environment**:
-
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 3. **Install the required packages**:
 
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. **Run the app**:
 
-streamlit run main.py
+   ```bash
+   streamlit run main.py
 
 5. **Quit the app**:
 
-CRTL-C
+   ```bash
+   CRTL-C
 
 
 ## Usage
