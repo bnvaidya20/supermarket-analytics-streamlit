@@ -41,7 +41,7 @@ To run this Streamlit app locally, follow these steps:
 5. **Quit the app**:
 
    ```bash
-   CRTL-C
+   CTRL-C
 
 
 ## Usage
