@@ -1,6 +1,6 @@
-# Supermarket Analytics
+# Supermarket Analytics Visualization with Streamlit
 
-Welcome to the **Supermarket Analytics**, a comprehensive tool built using Streamlit for analyzing supermarket sales, customer ratings, transactions, and more. 
+Welcome to the **Supermarket Analytics Visualization with Streamlit**, a comprehensive tool built using Streamlit for analyzing supermarket sales, customer ratings, transactions, and more. 
 This application provides valuable insights to help you understand and optimize your supermarket's performance.
 
 ## Features
